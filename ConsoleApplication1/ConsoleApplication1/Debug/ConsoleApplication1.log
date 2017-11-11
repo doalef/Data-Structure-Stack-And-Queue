@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+g:\github\cpp\mehdi\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+g:\github\cpp\mehdi\consoleapplication1\consoleapplication1\consoleapplication1.cpp(36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+g:\github\cpp\mehdi\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): warning C4101: 'i': unreferenced local variable
+  ConsoleApplication1.vcxproj -> G:\Github\cpp\mehdi\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> G:\Github\cpp\mehdi\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
